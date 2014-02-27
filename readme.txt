@@ -1,3 +1,6 @@
+Url:
+C:\Users\[Username]\AppData\Local\QlikTech\QlikView\Extensions\Objects\slider_qm
+
 To change the images should be placed within the slider_qm folder that is in the path specified above, 
 within this same folder there is a file index.html this is where the name of the image and size you set. 
 
